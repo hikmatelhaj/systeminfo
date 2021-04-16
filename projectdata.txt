@@ -1,0 +1,261 @@
+Level,Date and Time,Source,Event ID,Task Category
+Information,2021-04-12 5:41:14 PM,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,2021-04-12 5:38:29 PM,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,2021-04-12 1:50:21 PM,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.335.717.0)
+Information,2021-04-12 1:50:13 PM,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.335.717.0)
+Information,2021-04-12 1:50:13 PM,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,2021-04-12 12:40:53 PM,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,2021-04-12 12:38:29 PM,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,2021-04-12 12:00:00 PM,EventLog,6013,None,The system uptime is 15812 seconds.
+Information,2021-04-12 10:58:07 AM,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,2021-04-12 10:56:03 AM,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,2021-04-12 10:55:57 AM,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2021‎-‎04‎-‎12T16:55:57.105706800Z from ‎2021‎-‎04‎-‎12T16:55:57.105436400Z.
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume1\Windows\System32\svchost.exe' (PID 13952)."
+Information,2021-04-12 10:55:57 AM,Microsoft-Windows-Time-Service,35,None,"The time service is now synchronizing the system time with the time source time.windows.com,0x9 (ntp.m|0x9|0.0.0.0:123->13.86.101.172:123) with reference id 2892322317. Current local stratum number is 4."
+Information,2021-04-12 10:55:42 AM,Microsoft-Windows-Time-Service,37,None,"The time provider NtpClient is currently receiving valid time data from time.windows.com,0x9 (ntp.m|0x9|0.0.0.0:123->13.86.101.172:123)."
+Information,2021-04-12 10:55:41 AM,Microsoft-Windows-Time-Service,158,None,The time provider 'VMICTimeProvider' has indicated that the current hardware and operating environment is not supported and has stopped. This behavior is expected for VMICTimeProvider on non-HyperV-guest environments. This may be the expected behavior for the current provider in the current operating environment as well.
+Information,2021-04-12 10:55:40 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Provisioning\Microsoft-Desktop-Provisioning-Sequence.dat was cleared updating 0 keys and creating 0 modified pages.
+Error,2021-04-12 8:30:43 AM,Microsoft-Windows-DistributedCOM,10010,None,The server Microsoft.SkypeApp_15.68.96.0_x86__kzf8qxf38zg5c!App.AppXtwmqn4em5r5dpafgj4t4yyxgjfe0hr50.mca did not register with DCOM within the required timeout.
+Error,2021-04-12 8:06:39 AM,Microsoft-Windows-DistributedCOM,10010,None,The server Microsoft.SkypeApp_15.68.96.0_x86__kzf8qxf38zg5c!App.AppXtwmqn4em5r5dpafgj4t4yyxgjfe0hr50.mca did not register with DCOM within the required timeout.
+Information,2021-04-12 7:46:55 AM,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.335.693.0)
+Information,2021-04-12 7:46:47 AM,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.335.693.0)
+Information,2021-04-12 7:46:47 AM,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Warning,2021-04-12 7:42:46 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user DESKTOP-A4670M3\magaz SID (S-1-5-21-1089560294-514479759-1092619984-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning,2021-04-12 7:40:45 AM,Microsoft-Windows-DistributedCOM,10016,None,"The machine-default permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{C2F03A33-21F5-47FA-B4BB-156362A2F239}
+ and APPID 
+{316CDED5-E4AE-4B15-9113-7055D84DCC97}
+ to the user DESKTOP-A4670M3\magaz SID (S-1-5-21-1089560294-514479759-1092619984-1001) from address LocalHost (Using LRPC) running in the application container Microsoft.Windows.ShellExperienceHost_10.0.18362.1171_neutral_neutral_cw5n1h2txyewy SID (S-1-15-2-155514346-2573954481-755741238-1654018636-1233331829-3075935687-2861478708). This security permission can be modified using the Component Services administrative tool."
+Warning,2021-04-12 7:38:44 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID 
+Windows.SecurityCenter.SecurityAppBroker
+ and APPID 
+Unavailable
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning,2021-04-12 7:38:44 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID 
+Windows.SecurityCenter.WscBrokerManager
+ and APPID 
+Unavailable
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error,2021-04-12 7:38:17 AM,Microsoft-Windows-DistributedCOM,10010,None,The server Microsoft.SkypeApp_15.68.96.0_x86__kzf8qxf38zg5c!App.AppXtwmqn4em5r5dpafgj4t4yyxgjfe0hr50.mca did not register with DCOM within the required timeout.
+Warning,2021-04-12 7:37:29 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user DESKTOP-A4670M3\magaz SID (S-1-5-21-1089560294-514479759-1092619984-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Error,2021-04-12 7:37:07 AM,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,"Installation Failure: Windows failed to install the following update with error 0x80242016: Feature update to Windows 10, version 20H2."
+Warning,2021-04-12 7:37:03 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user DESKTOP-A4670M3\magaz SID (S-1-5-21-1089560294-514479759-1092619984-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning,2021-04-12 7:37:01 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user DESKTOP-A4670M3\magaz SID (S-1-5-21-1089560294-514479759-1092619984-1001) from address LocalHost (Using LRPC) running in the application container SpotifyAB.SpotifyMusic_1.156.595.0_x86__zpdnekdrzrea0 SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning,2021-04-12 7:36:59 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user DESKTOP-A4670M3\magaz SID (S-1-5-21-1089560294-514479759-1092619984-1001) from address LocalHost (Using LRPC) running in the application container Microsoft.SkypeApp_15.68.96.0_x86__kzf8qxf38zg5c SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning,2021-04-12 7:36:58 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user DESKTOP-A4670M3\magaz SID (S-1-5-21-1089560294-514479759-1092619984-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning,2021-04-12 7:36:57 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user DESKTOP-A4670M3\magaz SID (S-1-5-21-1089560294-514479759-1092619984-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Information,2021-04-12 7:36:55 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'bindflt' (10.0, ‎2067‎-‎08‎-‎23T14:59:11.000000000Z) has successfully loaded and registered with Filter Manager."
+Warning,2021-04-12 7:36:55 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user DESKTOP-A4670M3\magaz SID (S-1-5-21-1089560294-514479759-1092619984-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning,2021-04-12 7:36:53 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID 
+Windows.SecurityCenter.WscCloudBackupProvider
+ and APPID 
+Unavailable
+ to the user DESKTOP-A4670M3\magaz SID (S-1-5-21-1089560294-514479759-1092619984-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning,2021-04-12 7:36:53 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID 
+Windows.SecurityCenter.WscCloudBackupProvider
+ and APPID 
+Unavailable
+ to the user DESKTOP-A4670M3\magaz SID (S-1-5-21-1089560294-514479759-1092619984-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Information,2021-04-12 7:36:43 AM,Service Control Manager,7026,None,"The following boot-start or system-start driver(s) did not load: 
+dam"
+Error,2021-04-12 7:36:41 AM,Microsoft-Windows-DistributedCOM,10010,None,The server Microsoft.SkypeApp_15.68.96.0_x86__kzf8qxf38zg5c!App.AppXtwmqn4em5r5dpafgj4t4yyxgjfe0hr50.mca did not register with DCOM within the required timeout.
+Warning,2021-04-12 7:36:39 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}
+ and APPID 
+{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}
+ to the user NT AUTHORITY\LOCAL SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning,2021-04-12 7:36:39 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}
+ and APPID 
+{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}
+ to the user NT AUTHORITY\LOCAL SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Information,2021-04-12 7:36:38 AM,vmx86,34,None,"The description for Event ID 34 from source vmx86 cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+VMX86.SYS: begin DriverEntry
+"
+Information,2021-04-12 7:36:38 AM,Microsoft-Windows-WLAN-AutoConfig,4000,None,"WLAN AutoConfig service has successfully started.
+"
+Information,2021-04-12 7:36:38 AM,Microsoft-Windows-DHCPv6-Client,51046,Service State Event,DHCPv6 client service is started
+Information,2021-04-12 7:36:38 AM,Microsoft-Windows-Dhcp-Client,50103,Service State Event,DHCPv4 client registered for shutdown notification
+Information,2021-04-12 7:36:38 AM,Microsoft-Windows-Dhcp-Client,50036,Service State Event,DHCPv4 client service is started
+Information,2021-04-12 7:36:38 AM,Microsoft-Windows-Winlogon,7001,(1101),User Log-on Notification for Customer Experience Improvement Program
+Information,2021-04-12 7:36:38 AM,VMnetuserif,1,None,() Starting up the User Interface Driver for VMware Virtual Networks.
+Information,2021-04-12 7:36:38 AM,VMnetBridge,10,None,() Starting up the Bridge Driver for VMware Virtual Networks.
+Warning,2021-04-12 7:36:37 AM,BTHUSB,34,None,The local adapter does not support an important Low Energy controller state to support peripheral mode. The minimum required supported state mask is 0x2491f7fffff; got 0xffffffff. Low Energy peripheral role functionality will not be available.
+Information,2021-04-12 7:36:37 AM,BTHUSB,18,None,Windows cannot store Bluetooth authentication codes (link keys) on the local adapter. Bluetooth keyboards might not work in the system BIOS during start-up.
+Information,2021-04-12 7:36:37 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'storqosflt' (10.0, ‎2084‎-‎07‎-‎23T23:29:44.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,2021-04-12 7:36:37 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'CldFlt' (10.0, ‎2015‎-‎01‎-‎07T13:40:43.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,2021-04-12 7:36:37 AM,Microsoft-Windows-FilterManager,1,None,"File System Filter 'CldFlt' (Version 10.0, ‎2015‎-‎01‎-‎07T13:40:43.000000000Z) unloaded successfully."
+Information,2021-04-12 7:36:37 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'CldFlt' (10.0, ‎2015‎-‎01‎-‎07T13:40:43.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,2021-04-12 7:36:37 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'wcifs' (10.0, ‎2011‎-‎08‎-‎25T16:27:29.000000000Z) has successfully loaded and registered with Filter Manager."
+Error,2021-04-12 7:36:37 AM,Service Control Manager,7000,None,"The luafv service failed to start due to the following error: 
+This driver has been blocked from loading"
+Information,2021-04-12 7:36:37 AM,e1i65x64,32,None,"Intel(R) Ethernet Connection (2) I219-V
+ Network link has been established at 1Gbps full duplex.
+"
+Information,2021-04-12 7:36:36 AM,Microsoft-Windows-Directory-Services-SAM,16977,None,"The domain is configured with the following minimum password length-related settings.
+
+MinimumPasswordLength: 0
+
+MinimumPasswordLengthAudit: -1
+
+For more information see https://go.microsoft.com/fwlink/?LinkId=2097191.
+"
+Information,2021-04-12 7:36:36 AM,Microsoft-Windows-Directory-Services-SAM,16962,None,"Remote calls to the SAM database are being restricted using the default security descriptor: O:SYG:SYD:(A;;RC;;;BA).
+For more information please see http://go.microsoft.com/fwlink/?LinkId=787651."
+Information,2021-04-12 7:36:36 AM,Microsoft-Windows-Wininit,14,None,"Credential Guard configuration: 0x0, 0"
+Warning,2021-04-12 7:36:36 AM,Microsoft-Windows-Kernel-PnP,219,(212),The driver \Driver\WudfRd failed to load for the device HID\VID_B58E&PID_9E84&MI_03&Col02\8&2a6dc8ff&0&0001.
+Information,2021-04-12 7:36:36 AM,Microsoft-Windows-DriverFrameworks-UserMode,10118,Startup of the UMDF reflector,"UMDF reflector is unable to connect to service control manager (SCM). This is expected during boot, when SCM has not started yet. Will retry when it starts."
+Information,2021-04-12 7:36:35 AM,MEIx64,2,None,Intel(R) Management Engine Interface driver has started successfully.
+Information,2021-04-12 7:36:33 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 11 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (3 state(s))
+
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 3696
+Maximum performance percentage: 689
+Minimum performance percentage: 27
+Minimum throttle percentage: 2"
+Information,2021-04-12 7:36:33 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 9 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (3 state(s))
+
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 3696
+Maximum performance percentage: 689
+Minimum performance percentage: 27
+Minimum throttle percentage: 2"
+Information,2021-04-12 7:36:33 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 7 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (3 state(s))
+
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 3696
+Maximum performance percentage: 689
+Minimum performance percentage: 27
+Minimum throttle percentage: 2"
+Information,2021-04-12 7:36:33 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 5 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (3 state(s))
+
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 3696
+Maximum performance percentage: 689
+Minimum performance percentage: 27
+Minimum throttle percentage: 2"
+Information,2021-04-12 7:36:33 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 3 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (3 state(s))
+
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 3696
+Maximum performance percentage: 689
+Minimum performance percentage: 27
+Minimum throttle percentage: 2"
+Information,2021-04-12 7:36:33 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 1 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (3 state(s))
+
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 3696
+Maximum performance percentage: 689
+Minimum performance percentage: 27
+Minimum throttle percentage: 2"
+Information,2021-04-12 7:36:33 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 10 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (3 state(s))
+
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 3696
+Maximum performance percentage: 689
+Minimum performance percentage: 27
+Minimum throttle percentage: 2"
+Information,2021-04-12 7:36:33 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 8 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (3 state(s))
+
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 3696
+Maximum performance percentage: 689
+Minimum performance percentage: 27
+Minimum throttle percentage: 2"
+Information,2021-04-12 7:36:33 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 6 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (3 state(s))
+
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 3696
+Maximum performance percentage: 689
+Minimum performance percentage: 27
+Minimum throttle percentage: 2"
+Information,2021-04-12 7:36:33 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 4 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (3 state(s))
+
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 3696
+Maximum performance percentage: 689
+Minimum performance percentage: 27
+Minimum throttle percentage: 2"
+Information,2021-04-12 7:36:33 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 2 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (3 state(s))
+
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 3696
+Maximum performance percentage: 689
+Minimum performance percentage: 27
+Minimum throttle percentage: 2"
+Information,2021-04-12 7:36:33 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 0 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (3 state(s))
+
+Performance state type: ACPI Collaborative Processor Performance Control
+Nominal Frequency (MHz): 3696
+Maximum performance percentage: 689
+Minimum performance percentage: 21
+Minimum throttle percentage: 2"
+Information,2021-04-12 7:36:33 AM,Microsoft-Windows-Ntfs,98,None,Volume \\?\Volume{ee33156f-0000-0000-0000-80df39000000} (\Device\HarddiskVolume2) is healthy.  No action is needed.
+Information,2021-04-12 7:36:33 AM,Microsoft-Windows-Ntfs,98,None,Volume \\?\Volume{ee33156f-0000-0000-0000-801c3a000000} (\Device\HarddiskVolume4) is healthy.  No action is needed.
+Information,2021-04-12 7:36:33 AM,Microsoft-Windows-Ntfs,98,None,Volume \\?\Volume{ee33156f-0000-0000-0000-50003a000000} (\Device\HarddiskVolume3) is healthy.  No action is needed.
+Information,2021-04-12 7:36:33 AM,Microsoft-Windows-Ntfs,98,None,Volume D: (\Device\HarddiskVolume5) is healthy.  No action is needed.
+Information,2021-04-12 7:36:32 AM,VMnetAdapter,36,None,() Starting up the Adapter Driver for VMware Virtual Networks.
+Information,2021-04-12 7:36:32 AM,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Disconnected, Reason: NIC compliance"

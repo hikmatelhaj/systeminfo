@@ -1,0 +1,15 @@
+------------------------------------------- 2021-04-13 -------------------------------------------
+User has picked (1) Create Input/Data file
+User has picked (2) Generate Output file
+User didn't want to sort
+
+------------------------------------------- 2021-04-13 -------------------------------------------
+User has picked (3) Print output here
+User has picked (1) Create Input/Data file
+User has picked (2) Generate Output file
+User didn't want to sort
+User has picked (4) Clean the output file
+------------------------------------------- 2021-04-13 -------------------------------------------
+User has picked (1) Create Input/Data file
+User has picked (1) Create Input/Data file
+
